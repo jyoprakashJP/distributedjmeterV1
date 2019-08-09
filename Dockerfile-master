@@ -1,0 +1,4 @@
+FROM jyoprakash/jmeter-base:5.0
+MAINTAINER jyoprakash
+		
+EXPOSE 60000
